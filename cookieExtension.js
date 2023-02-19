@@ -24,7 +24,7 @@ cookieExtension {
     document.cookie = args.ONE;
   }
 }
-Scratch.extensions.register(cookie);
+Scratch.extensions.register(cookie());
 
 
 
